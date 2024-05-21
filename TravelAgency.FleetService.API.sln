@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgency.FleetService.API", "TravelAgency.FleetService.API\TravelAgency.FleetService.API.csproj", "{84C465E5-70CE-4E74-BE16-96344080CC73}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8C10E07B-0BE1-44C3-B17C-CFF338CA242E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solutionItems", "solutionItems", "{7891D178-36DD-40A4-8379-EB7119AB05C7}"
+	ProjectSection(SolutionItems) = preProject
+		nuget.config = nuget.config
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{480AEA2F-3D0C-4E8A-9523-B616A463E24D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84C465E5-70CE-4E74-BE16-96344080CC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84C465E5-70CE-4E74-BE16-96344080CC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84C465E5-70CE-4E74-BE16-96344080CC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84C465E5-70CE-4E74-BE16-96344080CC73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{84C465E5-70CE-4E74-BE16-96344080CC73} = {8C10E07B-0BE1-44C3-B17C-CFF338CA242E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08B31E1D-0464-47CA-AE87-7C25B6BF9CD9}
+	EndGlobalSection
+EndGlobal
